@@ -9,7 +9,7 @@ A j reference card
 
 VERSION=: '1.0.0'
 
-RELEASE=: 'j904'
+RELEASE=: 'j903'
 
 FOLDER=: 'ashyisme/jreference'
 
