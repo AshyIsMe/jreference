@@ -1,8 +1,9 @@
 # j programming language reference card
 
-Inspired by the k built in reference doco, especially the ngn/k versions: https://codeberg.org/ngn/k.
+Online reference card for the J Programming Language REPL.
+Currently just a copy/paste of the NuVoc table https://code.jsoftware.com/wiki/NuVoc
 
-Currently just a copy/paste of the old J Vocabulary: https://www.jsoftware.com/help/dictionary/vocabul.htm
+Inspired by the k built in reference doco, especially the ngn/k versions: https://codeberg.org/ngn/k.
 
 TODO: Expand to include some simple examples similar to the J Reference Card:
 `https://code.jsoftware.com/mediawiki/images/5/53/J602_RefCard_color_letter_current.pdf`
@@ -12,10 +13,12 @@ TODO: Expand to include some simple examples similar to the J Reference Card:
 ```
 $ ijconsole
    install 'github:AshyIsMe/jreference'
+   exit''
+
+$ cat "load 'ashyisme/jreference'" >> ~/j903-user/config/startup.ijs
 ```
 
 ## Usage
-
 ```
 $ ijconsole
    load 'ashyisme/jreference'
