@@ -15,7 +15,7 @@ $ ijconsole
    install 'github:AshyIsMe/jreference'
    exit''
 
-$ cat "load 'ashyisme/jreference'" >> ~/j903-user/config/startup.ijs
+$ echo "load 'ashyisme/jreference'" >> ~/j903-user/config/startup.ijs
 ```
 
 ## Usage
